@@ -1,5 +1,4 @@
 import hashlib
-import hmac
 from bitcoinlib.keys import HDKey
 from ethereum import utils
 
